@@ -22,9 +22,6 @@ To demonstrate hands-on offensive security knowledge through the recreation of c
 
 ---
 
-
----
-
 ## 📚 Included Case Studies
 
 - case1_idor_juice_shop.md — IDOR vulnerability on Juice Shop
