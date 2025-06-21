@@ -22,18 +22,6 @@ To demonstrate hands-on offensive security knowledge through the recreation of c
 
 ---
 
-## 📂 Repository Structure
-web-app-vuln-case-studies/
-├── README.md # This file
-├── case1_idor_juice_shop.md # IDOR vulnerability case study
-├── case2_stored_xss_dvwa.md # Stored XSS case study
-├── screenshots/ # Supporting visuals
-│ ├── idor_steps.png
-│ ├── xss_payload.png
-│ └── xss_output.png
-
----
-
 ## 📚 Included Case Studies
 
 - case1_idor_juice_shop.md — IDOR vulnerability on Juice Shop
