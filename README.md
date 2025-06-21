@@ -56,4 +56,4 @@ All vulnerabilities were tested in isolated and intentionally vulnerable lab env
 Cyber Security Consultant | VAPT | AppSec | GRC  
 📧 Email: niladri.dalal98@gmail.com  
 🔗 LinkedIn: [niladri-dalal](https://www.linkedin.com/in/niladri-dalal-70744b1a2/)  
-🔗 GitHub: [github.com/your-username](https://github.com/niladri-sec)
+🔗 GitHub: [github.com/niladri-sec](https://github.com/niladri-sec)
