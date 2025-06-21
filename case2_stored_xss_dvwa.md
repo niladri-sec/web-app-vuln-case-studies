@@ -12,3 +12,5 @@
 3. Enter payload:
    ```html
    <script>alert('XSS')</script>
+4. Submit and refresh the page.
+5. The alert will pop up showing execution of the payload
