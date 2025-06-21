@@ -16,10 +16,10 @@
 5. The alert will pop up showing execution of the payload
 
 ## 🧠 Impact
-Payload is stored in the backend and executed in every visitor’s browser.
-Can lead to session hijacking, phishing, or privilege escalation.
+- Payload is stored in the backend and executed in every visitor’s browser.
+- Can lead to session hijacking, phishing, or privilege escalation.
 
 ## 🛠️ Remediation
-Sanitize inputs using frameworks like OWASP ESAPI.
-Escape output on render.
-Use Content Security Policy (CSP) to reduce risk
+- Sanitize inputs using frameworks like OWASP ESAPI.
+- Escape output on render.
+- Use Content Security Policy (CSP) to reduce risk
